@@ -1,0 +1,71 @@
+Priya Kumari
+CS412 PS0 
+
+Introduction Sequence 
+Problem 1: 
+$ git commit
+$ git commit 
+
+Problem 2: 
+$ git branch bugFix
+$ git checkout bugFix 
+
+Problem 3: 
+$ git branch bugFix
+$ git checkout bugFix
+$ git commit 
+$ git checkout master
+$ git commit 
+$ git merge bugFix 
+
+Problem 4: 
+$ git branch bugFix 
+$ git checkout bugFix 
+$ git commit 
+$ git checkout master
+$ git commit 
+$ git checkout bugFix 
+$ git rebase master 
+
+
+
+
+Ramping Up
+Problem 1: 
+$ git checkout C4
+
+Problem 2: 
+$ git checkout bugFix^
+
+Problem 3: 
+$ git branch -f master C6
+$ git branch -f bugFix C0 
+$ git checkout C1 
+
+Problem 4: 
+$ git reset local~1
+$ git checkout pushed
+$ git revert pushed 
+
+
+
+
+Moving Work Around
+Problem 1: 
+$ git cherry-pick C3 C4 C7 
+
+Problem 2: 
+$ git rebase -i master~4 
+
+
+
+
+
+
+
+
+
+
+
+
+
