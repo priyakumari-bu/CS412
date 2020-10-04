@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fcd6b22-063a-41d8-a334-72112db10a5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iFZzBWd5VPSSUAFgfYKimcEk0T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.8.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.11.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Mocha.unitTests.js">
+    <configuration name="PS1.P1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PS1.P1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="PS1.P2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PS1.P2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="PS1.P3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PS1.P3.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="unitTests.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="unitTests.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="tester.js" type="mocha-javascript-test-runner">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="unitTests.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/unitTests.js</test-file>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.tester.js" />
+      <item itemvalue="Mocha.unitTests.js" />
+      <item itemvalue="Node.js.PS1.P1.js" />
+      <item itemvalue="Node.js.PS1.P2.js" />
+      <item itemvalue="Node.js.unitTests.js" />
+      <item itemvalue="Node.js.PS1.P3.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.unitTests.js" />
+        <item itemvalue="Node.js.PS1.P3.js" />
+        <item itemvalue="Node.js.PS1.P2.js" />
+        <item itemvalue="Node.js.PS1.P1.js" />
+        <item itemvalue="Node.js.unitTests.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fcd6b22-063a-41d8-a334-72112db10a5e" name="Default Changelist" comment="" />
+      <created>1601505560793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601505560793</updated>
+      <workItem from="1601505562043" duration="36678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="86" y="47" width="1089" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601683480569">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="86" y="47" width="1089" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1601683480569" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601522352596" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601694032415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1601694032415" />
+    <state x="548" y="182" key="FileChooserDialogImpl" timestamp="1601515227551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="182" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1601515227551" />
+    <state width="1515" height="240" key="GridCell.Tab.0.bottom" timestamp="1601775082806">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="240" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1601775082806" />
+    <state width="938" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601681625008" />
+    <state width="1515" height="240" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601696607992" />
+    <state width="1515" height="240" key="GridCell.Tab.0.center" timestamp="1601775082805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="240" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1601775082805" />
+    <state width="938" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601681625007" />
+    <state width="1515" height="240" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601696607991" />
+    <state width="1515" height="240" key="GridCell.Tab.0.left" timestamp="1601775082805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="240" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1601775082805" />
+    <state width="938" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601681625007" />
+    <state width="1515" height="240" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601696607990" />
+    <state width="1515" height="240" key="GridCell.Tab.0.right" timestamp="1601775082805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="240" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1601775082805" />
+    <state width="938" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601681625007" />
+    <state width="1515" height="240" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601696607992" />
+    <state x="622" y="86" width="914" height="707" key="SettingsEditor" timestamp="1601691300498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2110" y="201" width="977" height="708" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1601678124110" />
+    <state x="622" y="86" width="914" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601691300498" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1601766785581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1601766785581" />
+  </component>
+</project>
