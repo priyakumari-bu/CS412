@@ -1,0 +1,15 @@
+<div>
+  <ul *ngFor="let track of tracks">
+    <li (click)="setSelectedTrack(track)">{{track.trackName}}</li>
+  </ul>
+</div>
+
+<div *ngIf="selectedTrack">
+  Track Name: <input type="text" [(ngModel)]="selectedTrack.trackName">
+  Album Name: <input type="text" [(ngModel)]="selectedTrack.collectionName">
+  Artist Name: <input type="text" [(ngModel)]="selectedTrack.artistName">
+  Primary Genre: <input type="text" [(ngModel)]="selectedTrack.primaryGenreName">
+  Release Date: <input type="text" [(ngModel)]="selectedTrack.releaseDate">
+</div>
+<br/>
+
