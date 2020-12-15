@@ -1,0 +1,7 @@
+<p>Search for an artist to see some of their top songs!</p>
+<form (ngSubmit)="getTracks()">
+  Artist: <input name="artist" [(ngModel)]="artistName">
+  <button type="submit">Search</button>
+</form>
+
+<app-result [selectedArtist]="selectedArtist" [tracks]="tracks"></app-result>
